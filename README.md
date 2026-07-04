@@ -28,9 +28,10 @@ Hold a mouse button or hotkey, speak, and Campeador will transcribe or translate
 ---
 
 ## Requirements
+Python required
 
 - Windows 10 or Windows 11
-- Python 3.11 recommended
+- Python 3.11 recommended (https://www.python.org/ftp/python/3.13.14/python-3.13.14-amd64.exe)
 - NVIDIA GPU recommended for CUDA acceleration
 - Microphone
 
